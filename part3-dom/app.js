@@ -19,9 +19,11 @@ console.log("[ SECTION A — Selecting Elements ]")
 // Look at index.html to find each element's id.
 // Store each in its own variable and log all of them.
 //
+
 //   the h1
 //   the p that shows the page status
 //   the unordered list
+
 
 
 // A2.
@@ -74,6 +76,7 @@ console.log("\n[ SECTION B — Reading and Changing the DOM ]")
 // B4.
 // Select the div with the id "output-box" and give it a background color of your choice.
 // Do this with JavaScript — not by editing the CSS file.
+//note: The CSS name with "-",  in the js will change to camel case name.
 
 
 // B5.
